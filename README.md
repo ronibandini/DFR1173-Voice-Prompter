@@ -10,9 +10,9 @@ Arduino library designed to control the DFRobot DFR1173 MP3 Voice Prompter modul
 - Status verification support via BUSY pin.
 - Low power mode.
 
+<img width="977" height="1192" alt="VoicePrompter" src="https://github.com/user-attachments/assets/4853c2be-8e7f-4f0e-923e-dd517a18c201" />
+
 ## Wiring (Arduino Nano R4)
-
-
 
 | DFR1173 Pin | Arduino Nano R4 Pin |
 |-------------|---------------------|
