@@ -2,6 +2,10 @@
 
 Arduino library designed to control the DFRobot DFR1173 MP3 Voice Prompter module through serial commands.
 
+## Device
+
+https://www.dfrobot.com/product-2862.html?tracking=hOuIhw4fDaJRTdy4abz04npbQC78dqxBkqVt7XMFYxEXj2s0ukWgm71wbut0ewUP
+
 ## Features
 
 - Full playback control: Play, Pause, Resume, Stop.
